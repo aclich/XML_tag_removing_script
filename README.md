@@ -7,8 +7,8 @@
 #### Introduction
 Using regular expression to remove XML tag and count keyword in US patent document.
 
-script.py : main program.  
-comman_words.txt : Text file including some comman vocabularies that won't count in program. You can add any text in this file to let program ignore it.  
+**script.py** : main program.  
+**comman_words.txt** : Text file including some comman vocabularies that won't count in program. You can add any text in this file to let program ignore it.  
 
 
 #### usage:
