@@ -30,11 +30,11 @@ After running the script, it will generate 3 new files under the directory.
 Original XML file:  
 ![orig](XML_orig_file.png)
 
-Tag Removed:
+Tag Removed:  
 ![rm](tag_removed.png)
 
-Keywords Count:
+Keywords Count:  
 ![keyword](keyword_count.png)
 
-Combined Keywords count:
+Combined Keywords count:  
 ![comb](combine_word_count.png)
